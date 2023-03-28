@@ -1,0 +1,10 @@
+.full-width {
+    width:100%;
+}
+
+.login-image {
+    max-width: 150px;
+    max-height: 150px;
+    border: 2px solid #ff4081;
+    border-radius: 50%;
+}
